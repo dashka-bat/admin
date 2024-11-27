@@ -1,0 +1,36 @@
+.card {
+  background-color: white;
+  width: 300px;
+  border-radius: 12px;
+  margin: 0px 40px;
+  margin-top: 20px;
+
+  height: 192px;
+}
+.firstname {
+  color: blue;
+  display: flex;
+  gap: 5px;
+  padding-top: 20px;
+  margin-left: 20px;
+  font-size: 14px;
+}
+.lastname {
+  color: orange;
+  font-size: 14px;
+}
+.designer {
+  margin-left: 40;
+  color: black;
+  font-size: 0.7rem;
+}
+.phonenumber {
+  color: black;
+  margin-left: 20px;
+  font-size: 8px;
+}
+.company-name {
+  color: black;
+  margin-right: 30px;
+  margin-top: 40px;
+}
